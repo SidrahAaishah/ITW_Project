@@ -4,11 +4,12 @@ This project aims to help contributors understand and practice various Git comma
 
 ## Contributors
 
-1. Dhruv Agarwal
-2. Om Mathur
-3. Sidrah Aaishah
-4. Yashita Bahrani
-5. Shreya Thakur
+ 
+1. Sidrah Aaishah
+2. Yashita Bahrani
+3. Shreya Thakur
+4. Dhruv Agarwal
+5. Om Mathur
 
 ## Project Objectives
 
