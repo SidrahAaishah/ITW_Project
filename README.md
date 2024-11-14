@@ -28,5 +28,6 @@ The project covers essential Git commands such as:
 - `git pull`
 - `git push`
 - `git clone`
+- `git remote`
   
 Feel free to clone this repository and experiment with these commands to get a better grasp of Git basics!
